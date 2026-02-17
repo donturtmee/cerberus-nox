@@ -1,3 +1,3 @@
 export default function HomePage() {
-  return <p>Hello, Cerberus!</p>;
+  return <p className="text-red-500">Hello, Cerberus!</p>;
 }
