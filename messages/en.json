@@ -1,0 +1,14 @@
+{
+  "HomePage": {
+    "title": "Hello, Cerberus!"
+  },
+  "Error": {
+    "title": "Oops...",
+    "description": "Something went wrong.",
+    "retry": "Try again"
+  },
+  "Metadata": {
+    "title": "Cerberus Nox",
+    "description": "Nox"
+  }
+}

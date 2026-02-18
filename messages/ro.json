@@ -1,0 +1,14 @@
+{
+  "HomePage": {
+    "title": "Salutare, Cerberus!"
+  },
+  "Error": {
+    "title": "Oops...",
+    "description": "Ceva nu a mers bine.",
+    "retry": "Încearcă din nou"
+  },
+  "Metadata": {
+    "title": "Cerberus Nox",
+    "description": "Arc"
+  }
+}
